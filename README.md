@@ -2,7 +2,9 @@
 CHS deep learning club tutorials, projects, competitions
 
 ## Tutorial 1: Credit Fraud Classification
-![image](https://github.com/notDroid/deep-learning-club/assets/127229451/9d92780d-2bd9-4b32-ad73-61dd72e39f1d)
+![image](https://github.com/notDroid/deep-learning-club/assets/127229451/9d92780d-2bd9-4b32-ad73-61dd72e39f1d) <br> <br>
+kaggle notebook: https://www.kaggle.com/code/notdroid/tutorial-1-credit-fraud-classification <br>
+kaggle dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 1. basic data manipulation with pandas .iloc[row index, column index]
 2. creating a classificaiton model <br>
   a. using a better activation function relu with he uniform initialization <br>
