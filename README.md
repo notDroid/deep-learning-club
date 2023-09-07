@@ -1,5 +1,5 @@
-# deep-learning-club
-CHS deep learning club tutorials, projects, competitions
+# Deep Learning Club
+CHS deep learning club tutorials, projects, competitions.
 
 ## Tutorial 1: Credit Fraud Classification
 ![image](https://github.com/notDroid/deep-learning-club/assets/127229451/9d92780d-2bd9-4b32-ad73-61dd72e39f1d) <br> <br>
