@@ -5,7 +5,7 @@ CHS deep learning club tutorials, projects, competitions.
 ![image](https://github.com/notDroid/deep-learning-club/assets/127229451/9d92780d-2bd9-4b32-ad73-61dd72e39f1d) <br> <br>
 kaggle notebook: https://www.kaggle.com/code/notdroid/tutorial-1-credit-fraud-classification <br>
 kaggle dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud <br>
-associated post: https://www.notion.so/Neural-Network-Basics-45d093b62f034260b34e6d098dac014d
+associated post: https://evanescent-moon-786.notion.site/Neural-Network-Basics-45d093b62f034260b34e6d098dac014d?pvs=4
 
 1. basic data manipulation with pandas .iloc[row index, column index]
 2. creating a classificaiton model <br>
@@ -36,6 +36,12 @@ associated post: [https://www.notion.so/Deep-Dive-into-Deep-Learning-2b64f8a2e57
 
 ## Tutorial 3: Digit Recognizer
 ![image](https://github.com/notDroid/deep-learning-club/assets/127229451/e20fe3f7-b4b4-465c-909b-bf79f2e1c8c6)
-kaggle notebook: https://www.kaggle.com/code/notdroid/tutorial-3-digit-recognizer
-kaggle dataset: https://www.kaggle.com/competitions/digit-recognizer/data
-associated post: https://evanescent-moon-786.notion.site/Convolutional-Neural-Networks-ebf47cf0add046a092a85ef616ad52af?pvs=4
+kaggle notebook: https://www.kaggle.com/code/notdroid/tutorial-3-digit-recognizer <br>
+kaggle dataset: https://www.kaggle.com/competitions/digit-recognizer/data <br>
+associated post: [https://evanescent-moon-786.notion.site/Convolutional-Neural-Networks-ebf47cf0add046a092a85ef616ad52af?pvs=4](https://evanescent-moon-786.notion.site/Convolutional-Neural-Networks-ebf47cf0add046a092a85ef616ad52af?pvs=4)
+
+1. create a basic convolutional neural network with keras
+2. create custom convolution blocks
+3. use image augmentation
+4. train an efficientnetv2(ish) model using progressive learning
+5. use best practices (using tensorflow datasets is about the only thing missing)
