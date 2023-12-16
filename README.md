@@ -35,7 +35,7 @@ associated post: [https://www.notion.so/Deep-Dive-into-Deep-Learning-2b64f8a2e57
 4. plot training curves and iterate to find the best model
 
 ## Tutorial 3: Digit Recognizer
-![image](https://github.com/notDroid/deep-learning-club/assets/127229451/e20fe3f7-b4b4-465c-909b-bf79f2e1c8c6)
+![image](https://github.com/notDroid/deep-learning-club/assets/127229451/e20fe3f7-b4b4-465c-909b-bf79f2e1c8c6) <br>
 kaggle notebook: https://www.kaggle.com/code/notdroid/tutorial-3-digit-recognizer <br>
 kaggle dataset: https://www.kaggle.com/competitions/digit-recognizer/data <br>
 associated post: [https://evanescent-moon-786.notion.site/Convolutional-Neural-Networks-ebf47cf0add046a092a85ef616ad52af?pvs=4](https://evanescent-moon-786.notion.site/Convolutional-Neural-Networks-ebf47cf0add046a092a85ef616ad52af?pvs=4)
