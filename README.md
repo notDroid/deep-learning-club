@@ -5,6 +5,8 @@ CHS deep learning club tutorials, projects, competitions.
 ![image](https://github.com/notDroid/deep-learning-club/assets/127229451/9d92780d-2bd9-4b32-ad73-61dd72e39f1d) <br> <br>
 kaggle notebook: https://www.kaggle.com/code/notdroid/tutorial-1-credit-fraud-classification <br>
 kaggle dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+associated post: https://www.notion.so/Neural-Network-Basics-45d093b62f034260b34e6d098dac014d
+
 1. basic data manipulation with pandas .iloc[row index, column index]
 2. creating a classificaiton model <br>
   a. using a better activation function relu with he uniform initialization <br>
@@ -16,18 +18,18 @@ kaggle dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 4. evaluating the model <br>
   a. using the F1 score to find the best threshold and get the best metric for final model performance
 
-Applied Knowledge:
-1. Need for complexity <br>
-  a. Activation Functions <br>
-  b. More layers mean more layers of complexity (nuerual network is a big composite function)
-2. Measuring performance <br>
-  a.  Loss function
-3. Gradient Descent <br>
-  a. To improve the network learn the optimal values for the parameters W,b <br>
-  b. Use information about the derivatives (gradient) to update values <br>
-  c. Learning rate impacts convergence
-4. Training <br>
-  a. Forward propagate: compute output and loss <br>
-  b. Back propagate: compute gradient <br>
-  c. Update parameters <br>
-  d. go to next batch (cycle through dataset)
+## Tutorial 2: Rain Prediction
+![image](https://github.com/notDroid/deep-learning-club/assets/127229451/4ddbed86-cbf8-42f8-8fb4-e5d8addea8ea)
+kaggle notebook: https://www.kaggle.com/code/notdroid/tutorial-2-rain-prediction
+kaggle dataset: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+associated post: https://www.notion.so/Deep-Dive-into-Deep-Learning-2b64f8a2e5774e78a4030262775860af
+
+1. more in depth data preproccessing with pandas <br>
+  a. data imputing <br>
+  b. one hot encoding <br>
+  c. input normalization
+2. addressing the bias-variance tradeoff <br>
+  a. split data into training and validation <br>
+  b. balance regularization
+3. use cosine annealing with linear warmup
+4. plot training curves and iterate to find the best model
